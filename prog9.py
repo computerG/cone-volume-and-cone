@@ -1,6 +1,4 @@
-#zahi sabban
-#13/06/2020
-#Assignment#
+
 
 import math
 def calculate_volume(diameter, height):
